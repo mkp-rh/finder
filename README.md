@@ -5,6 +5,7 @@ When you press the pause key, draw lines towards the mouse cursor.
 # Build
 
 $ sudo yum install cairo-devel libX11-devel
+
 $ make
 
 # Run
