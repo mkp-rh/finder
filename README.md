@@ -6,7 +6,7 @@ When you press the pause key, draw lines towards the mouse cursor.
 
 Install the dependancies
 
-$ sudo yum install libXfixes-devel libXcomposite-devel cairo-devel libX11-devel
+$ sudo yum install cairo-devel libX11-devel
 
 And then use make
 
